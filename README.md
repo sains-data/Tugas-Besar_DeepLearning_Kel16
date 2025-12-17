@@ -45,8 +45,14 @@ streamlit run app.py
 - **R² Score**: ~0.37
 
 ### 👥 Anggota Kelompok 16
-- Mahasiswa Sains Data
-- Institut Teknologi Sumatera
+| No | Nama | NIM |
+|:--:|------|-----|
+| 1 | Chalifia Wananda | 122450076 |
+| 2 | Rendra Eka Prayoga | 122450112 |
+| 3 | Elisabeth Claudia Simanjuntak | 122450123 |
+
+**Program Studi**: Sains Data  
+**Institusi**: Institut Teknologi Sumatera
 
 ### 📁 Struktur File
 ```
